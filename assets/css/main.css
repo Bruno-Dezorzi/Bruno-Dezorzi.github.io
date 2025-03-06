@@ -2788,11 +2788,11 @@ input, select, textarea {
 				padding: 0;
 			}
 
-				/*#header > nav ul li {
-					border-top: solid 2px #5ccfb1;
+				#header > nav ul li {
+					/*border-top: solid 2px #5ccfb1;*/
 					display: block;
 					padding: 0;
-				}*/
+				}
 
 					#header > nav ul li a {
 						-moz-transition: none;
